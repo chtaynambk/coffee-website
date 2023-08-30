@@ -171,16 +171,13 @@ ul {
  
     /* start landing ------------------------> */
 
-.landing{
-  overflow-x: hidden;
-}
 
 .landing .img-l img{
     position: absolute;
     right: 0;
     width: 45%;
     z-index: -10;
-    bottom: 35px;
+    bottom: 10px;
     right: 0;
 }
 
@@ -1142,6 +1139,7 @@ footer .container .info .contact ul li{
 
 footer .social-media .container{
   position: relative;
+  height: 70px;
 }
 footer .social-media .container .social{
   position: absolute;
